@@ -1,0 +1,8 @@
+mpk_dir/*
+!mpk_dir/.keep
+geojson_dir/*
+!geojson_dir/.keep
+__pycache__/
+.venv/
+temp_mpk_extract/
+*.zip
