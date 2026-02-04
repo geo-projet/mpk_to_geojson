@@ -1,0 +1,2 @@
+geopandas
+py7zr
